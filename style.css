@@ -3,9 +3,11 @@
 body {
   padding-top:70px;
   position:relative;
+  background-color: Bisque;
 }
 
 .well {
   height:1000px;
   padding-top: 50px;
+  background-color: SlateBlue;
 }
